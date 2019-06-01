@@ -1,0 +1,6 @@
+import java.util.*;
+
+Public class seq_sum
+{
+	
+}
